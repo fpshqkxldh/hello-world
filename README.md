@@ -17,4 +17,7 @@
 전국 대학생 IT 아이디어 대회
 [대상 수상 발표 자료](/presentation.pptx)
 
+발표동영상
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=R48kDYatxKA"></iframe>
+
 만나서 반가워
