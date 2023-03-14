@@ -18,6 +18,6 @@
 [대상 수상 발표 자료](/presentation.pptx)
 
 발표동영상
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=R48kDYatxKA" /> </iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=R48kDYatxKA" title="박지성 맨유 시절 명경기 TOP5 l 맨유튜브 × 스포티비" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 
 만나서 반가워
